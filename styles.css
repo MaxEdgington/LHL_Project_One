@@ -1,0 +1,7 @@
+body {
+    /* Defines the height of the body, removes margins and hides overflow content */
+
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
